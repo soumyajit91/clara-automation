@@ -1,0 +1,9 @@
+{
+  "account_id": "acc_001",
+  "version": "v1",
+  "email": "info@benselectricsolutionsteam.com",
+  "phone_number": "403-870-8494",
+  "raw_ai_output": "The onboarding data for Clara, the AI answering assistant! Let's extract the structured data from the conversation and chat messages.\n\n**Company Information**\n\n* Company Name: G&M Pressure Washing\n* Customer Name: Shelley Manley\n* Email: gm_pressurewash@yahoo.ca\n\n**Phone Number**\n\n* Main Line Phone Number: 403-870-8494\n\n**Second Number (for forwarding calls)**\n\n* Not specified in the conversation, but it would be ideal to have this set up by Friday.\n\n**Call Forwarding**\n\n* The main line phone number will forward calls to Clara.\n* If someone wants to talk to Ben, they can be patched through.\n\n**Initial Testing**\n\n* The conversation will go through an initial calibration period where some spam calls or sales calls might get through.\n* Clara will be trained to minimize these edge cases and keep the door relatively closed.\n\n**Post-Call Workflow**\n\n* The post-call workflow will be available for review and testing.\n\n**Additional Notes**\n\n* The email address for Ben's team is info@benselectricsolutionsteam.com.\n* Clara's training will be completed through subsequent conversations and testing.\n\nThat's the structured onboarding data for Clara!",
+  "transcript_length": 18977,
+  "notes": "Raw LLM output stored without parsing"
+}

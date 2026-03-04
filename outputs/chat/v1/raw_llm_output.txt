@@ -1,0 +1,14 @@
+{
+  "client_company_name": "G&M Pressure washing",
+  "primary_contact_name": "Shelley Manley",
+  "primary_contact_email": "gm_pressurewash@yahoo.ca",
+  "primary_contact_phone": "403-870-8494",
+  "business_hours": {
+    "days": "",
+    "open": "",
+    "close": ""
+  },
+  "emergency_dispatch_policy": "",
+  "properties_or_locations": [],
+  "onboarding_notes": ""
+}

@@ -1,0 +1,37 @@
+I extracted the following structured onboarding data for Clara:
+
+**Business Information**
+
+* Company Name: Ben's Electric Solution Team
+* Email Address: info@benselectricsolutionsteam.com
+* Phone Number: 403-870-8494
+
+**Property Management Company**
+
+* Company Name: G&M Pressure washing
+* Contact Person: Shelley Manley
+* Email Address: gm_pressurewash@yahoo.ca
+
+**After-Hours Dispatch**
+
+* Property Manager: Shelley Manley
+* Properties Managed: Chevron and SOS gas stations
+
+**Working Hours**
+
+* Monday to Friday: 8:30 AM to 4:30 PM
+
+**Test Call Schedule**
+
+* Meeting scheduled for Friday at 2:00 PM to review test calls and dashboard features.
+
+**Agent Configuration**
+
+* The second number will be used to forward calls to Ben when he is unavailable.
+* The goal is to minimize the number of spam calls and sales calls that get through to Ben.
+
+**Post-Call Workflow**
+
+* The post-call workflow will be reviewed during the meeting on Friday.
+
+Please let me know if you need any further assistance or if there are any errors in the extracted data.

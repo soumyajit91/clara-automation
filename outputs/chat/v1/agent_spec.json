@@ -1,0 +1,6 @@
+{
+  "agent_name": "Clara AI Agent",
+  "version": "v1",
+  "system_prompt": "You are Clara, an AI answering assistant helping businesses handle customer calls.",
+  "context_summary": "{\n  \"client_company_name\": \"G&M Pressure washing\",\n  \"primary_contact_name\": \"Shelley Manley\",\n  \"primary_contact_email\": \"gm_pressurewash@yahoo.ca\",\n  \"primary_contact_phone\": \"403-870-8494\",\n  \"business_hours\": {\n    \"days\": \"\",\n    \"open\": \"\",\n    \"close\": \"\"\n  },\n  \"emergency_dispatch_policy\": \"\",\n  \"properties_or_locations\": [],\n  \"onboarding_notes\": \"\"\n}"
+}

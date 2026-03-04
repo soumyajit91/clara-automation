@@ -1,0 +1,504 @@
+start	end	text
+0	11000	Just give me a second, we'll let Ben in.
+11000	15000	Okay, so Navins, can I change his name to?
+15000	20000	If we going forward, Navin, if you can put Clara's display picture, they'll be helpful.
+20000	25000	Clara's support, I'm changing your name.
+25000	34000	Okay, cool.
+34000	36000	I'll let him in.
+36000	37000	Yes.
+37000	38000	The good.
+38000	39000	All right.
+39000	41000	Let him in in three, two, one.
+41000	46000	And Ben is in very sweet guy by the way.
+46000	51000	He's in.
+51000	57000	Hey, Ben, good afternoon.
+57000	58000	Oh, wait.
+58000	60000	Oh, hey, hi, good afternoon.
+60000	63000	Hey, Ben, how are you?
+63000	64000	I'm doing well, are you?
+64000	65000	Very well.
+65000	66000	Thank you so much for asking.
+66000	69000	Very, really excited to kick things off for you.
+69000	75000	And yeah, I mean, how have things been since the last time we spoke?
+75000	76000	Good, busy.
+76000	77000	Busy, that's good.
+77000	79000	It's been around for sure.
+79000	81000	So it's been fun.
+81000	85000	Um, yeah, I just signed the, um, the docky sign.
+85000	87000	Oh, okay.
+87000	89000	You look like it said, um, like a 12 month term.
+89000	91000	And I think we were talking about three months to start.
+91000	92000	Correct.
+92000	97000	So what it means there is that after the three months, if you decide to continue,
+97000	100000	which I'm sure you will, the price will stay the same.
+100000	103000	So that's what that 12 month term.
+103000	104000	Men means.
+104000	105000	So you'll be good.
+105000	106000	Correct.
+106000	107000	It just helps you with the cost increase.
+107000	108000	Yeah.
+108000	109000	So you've signed the docky sign.
+109000	110000	Yeah.
+110000	111000	Awesome.
+111000	113000	I think I'll be getting a notification on the billing team.
+113000	116000	And I think the card that you probably, the details that you shared with me that also
+116000	118000	might be in process of getting executed.
+118000	119000	So I think we're good.
+119000	124000	Uh, but all that aside, I just want to introduce the, the new phase that you can probably see on your screen.
+124000	125000	That's Paven.
+125000	126000	Paven.
+126000	128000	Hey, Ben.
+128000	134000	I wanted to get somebody who, I mean, who understands things in and out.
+134000	138000	And turns out, Paven's the one who started the whole journey of Clara answers.
+138000	141000	So he's somebody who's very deeply knitted into this program.
+141000	142000	This solution.
+142000	146000	So he'll match your pace, understand your expectations.
+146000	150000	And of course, married and then present the solution to you.
+150000	152000	So he's going to be a dedicated point of contact.
+152000	155000	But if in this, if any case, if at any point, there has to be more people involved,
+155000	158000	we'll of course notify you and then we'll loop other people in as well.
+158000	159000	Okay.
+160000	161000	Okay.
+161000	164000	That's how to let Paven take over.
+164000	167000	And, uh, yeah, we'll kick things off.
+167000	169000	Thank you so much, Bharat.
+169000	171000	And yeah, Bharat is my hype man.
+171000	172000	Yeah.
+172000	173000	Perfect.
+173000	174000	With all the intro.
+174000	175000	But yeah.
+175000	177000	I'm super excited to get you started.
+177000	182000	Ben, got all the context of your business or you're trying to solve with, you know,
+182000	186000	the first solution here that is, you know, AI for answering for your business.
+186000	190000	Not all the context from Bharat in the way you guys operate today.
+190000	197000	With that information, we already have the, you know, base variant of the agent configured.
+197000	202000	Just one, just a couple of details, you know, some details that I wanted to clarify
+202000	207000	so that we can complete that configuration and make the agent available for your testing today itself.
+207000	208000	Right.
+208000	210000	That'll be the target.
+210000	215000	The way the process would look like as well is we'll share the number on which the agent will be available.
+215000	217000	And the dashboard as well.
+217000	221000	So that, you know, you can run some test calls, see how the agent is responding.
+221000	222000	All of that.
+222000	228000	After this call, it's, I'll share that details with you by making those final configuration.
+228000	232000	And then post that we can probably set up another call for Friday.
+232000	237000	If you have some time, because you get this one day to really test.
+237000	241000	And, you know, run some test calls, see if you'd want anything changed.
+241000	248000	And then, you know, we can probably, you know, have the agent take life calls this weekend.
+248000	249000	Right.
+249000	250000	Okay.
+250000	253000	So firstly to, I mean, get an understanding.
+253000	265000	We'll divide the conversation into during officers and afterwards just to get the behavior that we'd want to have for the agent.
+265000	272000	So for during officers, then is it only you who takes all the incoming calls from customers or is there anyone else as well?
+272000	274000	No, right now it's just me.
+274000	275000	Yeah.
+275000	282000	So we have, we have some steady like contractors and they have the phone numbers for some of my team.
+282000	289000	So they can talk directly for the guys in the field, but generally like what I need this for is the.
+289000	296000	The new clients, the small jobs, the service calls, people that call every day that we don't have a already working relationship with.
+296000	299000	So, but anyways, yeah, it's me that takes those calls.
+299000	300000	Okay, it makes sense.
+300000	302000	And then.
+302000	307000	So when Clara will be set up, the way it'll be set up is your main business line today.
+307000	311000	By default, the forwarding will be set up from there to Clara.
+311000	312000	So.
+312000	314000	You know, we can start off with support.
+314000	318000	I understand from birth is you only have one number and that is your personal number.
+318000	319000	That is your business line.
+319000	320000	I think that is.
+320000	324000	Do you do by any chance happen to have a second number?
+324000	325000	I do.
+325000	327000	I've got a, I was actually thinking about this a while ago.
+327000	332000	So I actually have another phone with the phone line that I'm going to use for personal.
+332000	337000	Yeah, I just have to get it going and tell all my contacts, my new number.
+337000	338000	Perfect.
+338000	339000	Yeah.
+340000	343000	Yeah, I was going to say like, can I turn until I get that done?
+343000	346000	Am I able to turn Clara off and on as needed kind of thing or.
+346000	347000	Yes.
+347000	355000	So the way, then we can, the way we can set it up is, you know, on your phone, how do you use a iOS device?
+355000	357000	Like an Apple device or an Android?
+357000	358000	Android.
+358000	359000	Perfect.
+359000	365000	That makes it even easier because you, you can really set some, you know, the way we can start off is on your phone.
+366000	374000	You can set up the call forwarding in a way where if you do not answer the call or if you decline the call, then we can forward the calls to Clara.
+374000	380000	So in that way, in that way, we can start off like that until you have the second number up and running.
+380000	386000	Once the second number is up, then, you know, we can have Clara be the first point of contact.
+386000	393000	And then if someone wants to talk to you or, you know, then they can, then we can transfer it to the second number.
+393000	395000	Oh, I was actually going to ask that today.
+395000	399000	So Clara can transfer if somebody really needs to talk to me, Clara can transfer that call.
+399000	400000	Yes.
+400000	402000	That's where that's where we need that second number.
+402000	403000	That's where.
+403000	404000	Oh, got you.
+404000	405000	Okay.
+405000	406000	Yep.
+406000	407000	So that is possible.
+407000	408000	Cool.
+408000	412000	So when the second number is up and running, probably that is one number that I'll need from you.
+412000	416000	You can just, I'll send my, I'll send the details of the agent on the email.
+416000	417000	So you can reply to that.
+417000	419000	I'll include it at this point as well.
+419000	421000	So that can.
+421000	423000	So for officers, that is one.
+423000	430000	And then for anyone who's calling to probably schedule an appointment or is inquiring about a quote.
+430000	434000	Do you have any minimum.
+434000	438000	Like a visit fee that you charge if you have to ever give out an extra.
+438000	442000	Yeah, our structure is set up like for service calls.
+442000	445000	We do have a service call fee, which is $115.
+445000	448000	That's a call out, which is what gets us to the job site.
+448000	454000	And then our hourly charges in half hour increments after that.
+454000	458000	At the average $90 an hour for a residential.
+458000	461000	98 or 90.
+461000	462000	98.
+462000	463000	Okay.
+463000	464000	Perfect.
+464000	468000	For hour, which for half hour is going to be, of course, 40.
+468000	469000	Nine.
+469000	470000	Yeah.
+470000	473000	And then for the initial 115.
+473000	478000	So for that, do you have a like does that cover for the first one or two hours or anything like that?
+478000	481000	Well, that's just the call out to get the site.
+481000	482000	Okay.
+482000	483000	And then.
+483000	484000	Yeah.
+484000	485000	Okay.
+485000	486000	So.
+486000	490000	So basically it's $150 for the first half hour.
+490000	491000	100.
+491000	492000	Oh, okay.
+492000	493000	Yeah.
+493000	494000	That's what it.
+494000	495000	Okay.
+495000	496000	For the first first half hour.
+496000	497000	It's the usual call out.
+497000	498000	Perfect.
+498000	499000	In a sense.
+499000	500000	So.
+500000	503000	And do you want Clara to mention that on the call?
+503000	508000	Or shall we start off with not mentioning and you want to take that.
+508000	510000	Um, subjectively based on.
+510000	511000	Because some calls.
+511000	512000	Yeah.
+512000	518000	Most of the time I've definitely learned that people need to know about that before we before we book the job.
+518000	519000	Yeah.
+519000	524000	So when people ask, I do want Clara to be able to mention that.
+524000	529000	Only if they want to clarify, we'll mention, but we'll not make it a point to mention.
+529000	530000	I think so.
+530000	531000	Yeah.
+531000	533000	I mean, I guess Clara actually speaks better than I do.
+533000	534000	Sorry.
+534000	536000	I'm trying to mute my phone right now.
+536000	541000	I've got a whole bunch of notifications coming in here.
+541000	542000	I double book myself.
+542000	548000	I actually have a flat tire and I've got a mobile tire repair guy right now.
+548000	549000	Excuse me.
+549000	550000	One quick second.
+550000	551000	He's just outside my door.
+551000	552000	Sorry guys.
+552000	553000	Thank you.
+553000	554000	Thank you.
+582000	602000	Sorry guys, they just got to pay this guy.
+602000	604000	Thank you.
+632000	634000	Thank you.
+662000	664000	Thank you.
+692000	694000	Thank you.
+722000	739000	Oh, so sorry guys.
+739000	740000	Sorry, sorry.
+740000	741000	No problem.
+741000	742000	Good.
+742000	743000	Yeah.
+743000	744000	I ain't doing that.
+744000	745000	Sorry.
+745000	746000	Sorry.
+746000	747000	Pardon.
+747000	748000	Carry on.
+748000	749000	No problem at all.
+749000	750000	No problem at all.
+750000	751000	No problem at all.
+751000	757000	So we're talking about service call fee and we'll only include.
+757000	761000	You know, we'll not make it a point to mention it on all call, but you know, we'll have.
+761000	762000	Yeah.
+762000	763000	We'll have that information.
+763000	764000	Yeah.
+764000	770000	When people ask for if there is a minimum fee or anything on each of right.
+770000	771000	Cool.
+771000	773000	And then for everything else.
+773000	774000	Yeah.
+774000	776000	I think everything else is clear from the website already.
+776000	779000	So we'll start off there, but you know, we can.
+779000	780000	Any day.
+780000	782000	As the calls come in, you know, we can make changes.
+782000	784000	It's not like very injured in that way.
+784000	785000	Sure.
+785000	793000	So if you want to include some policies or, you know, if you don't want a specific type of calls handled a little differently, all of that we can.
+793000	796000	You know, take it up when as and when they pop up.
+796000	797000	Okay.
+797000	798000	So there's one.
+798000	799000	The other one is.
+799000	802000	So we can send out a notification whenever there's a new call.
+802000	805000	So do you have a preferred email address and a phone number.
+805000	809000	So so that we can have the email in the SMS and.
+809000	810000	Yeah.
+810000	812000	Let me just think here.
+812000	818000	Probably the best one info at Ben's electric solutions team dot com.
+818000	819000	Okay.
+819000	824000	So just so that I don't get the spelling wrong here will be possible to drop that in the chat.
+824000	825000	Yeah.
+825000	826000	Sure.
+826000	828000	So basically the same as if you have my email address.
+828000	829000	It's the same.
+829000	832000	It's the same info instead of Ben.
+832000	833000	Yeah.
+833000	835000	But I will write it down for you.
+835000	836000	Yep.
+836000	840000	I'll get that from there.
+840000	843000	We'll end the number on which you.
+843000	849000	So the main line that you're using will use the same number to send the SMS.
+849000	851000	The same number to send which sir.
+851000	855000	So we'll send the post call like whenever there is a new call from the customer, you'll get an SMS as well.
+855000	856000	Oh, yeah.
+856000	857000	Yeah.
+857000	859000	Actually, I was going to ask about that too.
+859000	862000	If it affects text messages or not, but probably not.
+862000	863000	Oh, okay.
+863000	864000	Okay.
+864000	868000	So we'll have both the email and text message set up on that number.
+868000	869000	Okay.
+869000	870000	Perfect.
+870000	871000	And so.
+871000	872000	Yeah.
+872000	875000	If people are text messaging me on this phone, that's not going to get.
+875000	878000	I'll get those text messages right away.
+878000	879000	So your phone.
+879000	880000	Your phone.
+880000	884000	The main line will be working fine on like only the incoming calls are getting.
+884000	887000	Forwarded to Clara, but everything.
+887000	890000	The call you can make outbound calls using your number.
+890000	891000	You can text back and forth.
+891000	893000	All of that is still.
+893000	895000	You know, pretty much the same.
+895000	896000	Perfect.
+896000	897000	Exactly.
+897000	898000	Okay.
+898000	904000	So that is with the officers, but coming to after hours been.
+904000	908000	Do you do any kind of dispatch for after hours?
+908000	912000	No, we don't do emergency calls.
+913000	917000	Except for, you know, our existing builders.
+917000	920000	And I've got one property manager.
+920000	922000	That sometimes they've got some.
+922000	925000	They've got gas stations that are running 24 seven.
+925000	926000	So.
+926000	930000	Sure answer is no, but yes, for one particular company.
+930000	931000	Okay.
+931000	937000	So if you have that one particular company, if you can help me with the details of that company.
+937000	940000	What we can do is, you know, if a call.
+940000	947000	If someone from that property calls for an emergency after hours, then you can patch it through to.
+947000	948000	Oh, okay.
+948000	950000	So you can actually select one number.
+950000	952000	That's allowed to get patched through.
+952000	953000	Yeah, but it's more.
+953000	957000	Yeah, we can use that number or even if you give me the context of the property,
+957000	960000	because you don't know who will be calling from that property.
+960000	961000	Right.
+961000	967000	So you can just give me the details of yes, the customer name address.
+967000	969000	If you have that handy, you can drop that in the chat.
+969000	970000	Yeah.
+970000	971000	But even if.
+971000	972000	Okay.
+972000	973000	Yeah.
+973000	978000	So just the details, customer name, property name, their address, primary contact.
+978000	981000	So right here in my phone, give me one moment.
+981000	982000	Yep.
+982000	995000	So shall we.
+995000	996000	Okay.
+996000	999000	So I'll put it in the chat.
+999000	1000000	It's weird.
+1000000	1004000	It's a property manager, but they also do a lot of pressure washing and landscaping.
+1004000	1011000	So the company is actually called GNM pressure washing, but they're property management.
+1011000	1016000	I think they can use Clara as well.
+1016000	1019000	Yeah, they probably could.
+1019000	1029000	Yeah.
+1029000	1045000	Yeah.
+1045000	1048000	Did you say you need their email address as well?
+1048000	1049000	Yeah.
+1049000	1053000	I mean, any any information that you already have so that when they call.
+1053000	1060000	You know, we if they mention, hey, I'm Shelley, you know, this is the number or even if someone else is calling as well.
+1060000	1063000	And they say, hey, this is from.
+1063000	1064000	Okay.
+1064000	1066000	From Gina and pressure wash.
+1066000	1067000	Yeah.
+1067000	1068000	Yeah.
+1068000	1069000	Yeah.
+1069000	1070000	Okay.
+1070000	1072000	How is this.
+1072000	1076000	See if I can.
+1076000	1079000	Coffee here.
+1079000	1083000	But you know, it's just one question there, Ben.
+1083000	1087000	So GNM is the property management company.
+1087000	1089000	But yes, the property.
+1089000	1091000	Okay.
+1091000	1098000	Is it a specific property under them for which they would call for emergencies or is it their facility itself?
+1098000	1100000	No, it's properties that they manage.
+1100000	1102000	So it's.
+1102000	1103000	It's gas stations.
+1103000	1105000	So we do we can work for them.
+1105000	1108000	They manage Chevron.
+1108000	1110000	Chevron and SOS.
+1110000	1111000	Okay.
+1111000	1113000	So when they call.
+1113000	1114000	Do they.
+1114000	1117000	I think they'll be giving you the gas station details, right?
+1117000	1118000	Yes.
+1118000	1119000	Yeah.
+1119000	1122000	She'll she'll normally.
+1122000	1127000	She's I've had a couple couple calls in the middle of the night and she'll usually message me or.
+1127000	1129000	Yeah, she'll tell me the details.
+1129000	1131000	And she'll send me a text message as well.
+1131000	1134000	So she generally will give all of that information.
+1134000	1135000	Okay.
+1135000	1137000	Because yeah, there's several.
+1137000	1143000	There's several properties about 20 gas stations around the city that we work in.
+1143000	1146000	Yeah, you probably have to just let it know.
+1146000	1149000	Hey, I'm trying this, you know, answering service out.
+1149000	1154000	So you can just call in and drop all the context and I'll.
+1154000	1155000	Sure.
+1155000	1156000	I'll be there.
+1156000	1158000	The call will be patched through right to me.
+1158000	1159000	Okay.
+1159000	1161000	Perfect.
+1161000	1162000	Cool.
+1162000	1167000	So that covers the afterwards as well because there's only one property or, you know, one customer.
+1167000	1169000	Yeah, there's really only the one customer.
+1169000	1170000	Yeah.
+1170000	1173000	For everyone else, we'll just have it as.
+1173000	1176000	You know, we'll get back to you in the next business day.
+1176000	1177000	And then.
+1177000	1178000	Yeah.
+1178000	1180000	The working hours are Monday to Friday.
+1180000	1182000	Shall we take directly from the website?
+1182000	1184000	I think it's Monday to Friday.
+1184000	1185000	Yeah.
+1185000	1186000	Monday to Friday.
+1186000	1189000	I think what the website says is eight to 430.
+1189000	1190000	Yeah.
+1190000	1193000	Basically, pretty much 835 is kind of what we work.
+1193000	1194000	But yeah.
+1194000	1195000	Perfect.
+1195000	1196000	We'll use that information.
+1196000	1198000	Again, like I said, we're starting there.
+1198000	1201000	But if we want to make any changes, we can always take that.
+1201000	1202000	Okay.
+1202000	1205000	Maria, that was pretty much it.
+1205000	1210000	Like, that was pretty much all the information that I needed because the rest of the information.
+1210000	1211000	Yeah.
+1211000	1212000	Yeah.
+1212000	1213000	But yeah.
+1213000	1216000	We should already help us complete the configuration and send the details over to you.
+1216000	1217000	This is the.
+1217000	1229000	So I'll send a link to the dashboard where you can see all the calls and then number.
+1229000	1234000	I'm purposefully not sharing the screen to show you the dashboard around.
+1234000	1238000	But I don't want you to just log in, try it, try your hand.
+1238000	1240000	And then when we.
+1240000	1243000	Probably we can schedule a time on Friday.
+1243000	1247000	And then that's when you'd already have made some test calls.
+1247000	1249000	All of them would be on the dashboard.
+1249000	1251000	And I can just walk you through them.
+1251000	1256000	How you can actually put the bash, put the dashboard to the best use.
+1256000	1258000	Perfect.
+1258000	1259000	Cool.
+1259000	1261000	So.
+1261000	1267000	Yeah.
+1267000	1269000	Just make sure my schedule.
+1269000	1271000	I've got nothing else going on on Friday.
+1271000	1273000	Don't think it's the same time works.
+1273000	1277000	If same time works, you can have it in the same time zone.
+1277000	1279000	I did.
+1279000	1284000	Oh, I think.
+1284000	1285000	Where's that?
+1285000	1290000	I think I've got something on Friday hang on a moment.
+1290000	1291000	Yeah.
+1291000	1292000	Yeah.
+1321000	1322000	Yeah.
+1322000	1324000	Noons not going to be good.
+1324000	1325000	Okay.
+1325000	1329000	So I've got a meeting already lunch meeting from noon till one on Friday.
+1329000	1330000	So.
+1330000	1334000	How much time do you think we need for the meeting on Friday?
+1334000	1335000	Less than half an hour.
+1335000	1336000	Let's never.
+1336000	1337000	Okay.
+1337000	1338000	Probably 15 to 20 minutes.
+1338000	1343000	So what we'll essentially be doing is you would after receiving the details today.
+1343000	1348000	You just you will try making some test calls and then see how the email is coming through.
+1348000	1353000	How the details pop up on the dashboard on Friday when we meet.
+1353000	1357000	It's more of if you observe something that needs changes.
+1357000	1361000	That's something that we will address on the call and then I'll just walk you around.
+1361000	1364000	The dashboard is probably show you some.
+1364000	1365000	Okay.
+1365000	1366000	Nice features.
+1366000	1367000	Let's.
+1367000	1368000	Yeah.
+1368000	1369000	Yeah.
+1369000	1370000	Okay.
+1370000	1371000	Let's do it in the afternoon.
+1371000	1375000	I think that'd be a little better if you've got some time around two o'clock.
+1375000	1376000	That's fine.
+1376000	1380000	We can schedule it for two o'clock on Friday.
+1380000	1381000	Perfect.
+1381000	1382000	Ideally.
+1382000	1388000	So once after we meet on Friday, we can, you know, have the setting already.
+1388000	1390000	We can follow the main line.
+1390000	1391000	We can have the big.
+1391000	1392000	That's how it works.
+1392000	1397000	It once you put it in front of the customer, you see how, you know, they're receiving it.
+1397000	1402000	And you already see a lot of time given back to yourself.
+1402000	1403000	Yeah.
+1403000	1404000	Okay.
+1404000	1406000	So once we go live, then it's going to answer the calls.
+1406000	1407000	Oh, we can configure it.
+1407000	1410000	So it answers the calls if I don't, right?
+1410000	1411000	Yeah.
+1411000	1413000	So that's a setting that we can just do.
+1413000	1419000	Do you think the second number will be up by Friday and would you think that's a possibility?
+1419000	1420000	Yeah.
+1420000	1425000	That'll be ideal where we can set it up in a way where we could forward all the calls from main line.
+1425000	1445000	And then from there, if someone wants to talk to, you know, you or someone, they're like, I want to talk to someone, because you, you would have that, you know, person days of customers who will be like, I don't want to go through this, just put me through.
+1445000	1446000	Right.
+1446000	1449000	We don't want to create a lot of friction there.
+1449000	1458000	So we can just patch them through, but we'll just get a quick purpose of, you know, why they're calling.
+1458000	1459000	Okay.
+1459000	1473000	So in initial few days, there'll be that calibration where, you know, all the, along with all the spam call, you know, one or two spam calls might be going through, you know, the sales calls that are coming in.
+1473000	1486000	But we will, it probably be the edge cases here and there were someone told something a little differently and then they told it's a relative of yours and then they got through to, you know, make a sales call.
+1486000	1487000	Right.
+1487000	1490000	So we'll try to have all of that minimize.
+1490000	1494000	We'll start off with, you know, keeping the door.
+1494000	1498000	Relatively closed will shut the door.
+1498000	1499000	Okay.
+1499000	1500000	Yeah.
+1500000	1502000	Sounds good.
+1502000	1503000	Cool.
+1503000	1507000	We'll have the testing piece taken care of in the following conversations and should everything go well.
+1507000	1510000	We can get things up and running for you.
+1510000	1512000	That'd be great.
+1512000	1513000	I'll like it.
+1513000	1514000	Cool.
+1514000	1515000	Cool.
+1515000	1516000	Yeah.
+1516000	1522000	Just watch out for my email there when I'll drop the details of the agent, the number, which you can die to talk to the agent.
+1522000	1523000	Nothing is live yet.
+1523000	1527000	I can call that number, have a conversation, see how the agent responds.
+1527000	1528000	Okay.
+1528000	1531000	You see the post call workflow in that way as well.
+1531000	1532000	Yeah.
+1532000	1533000	Fantastic.
+1533000	1535000	So that was all I had from my side.
+1535000	1537000	Thank you so much for your time, Ben.
+1537000	1539000	But yeah, old you, Barrett.
+1539000	1540000	Yeah.
+1540000	1541000	Awesome.
+1541000	1542000	Go.
+1542000	1544000	I'll just, I'll see you, Ben.
+1544000	1545000	Just watch out, maybe.
+1545000	1546000	Watch out for me.
+1546000	1547000	Thank you.
+1547000	1548000	Thanks.
